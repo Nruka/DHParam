@@ -1,0 +1,6 @@
+DHParam KEYWORD1
+getTransformation KEYWORD2
+setTheta  KEYWORD2
+setA  KEYWORD2
+setD  KEYWORD2
+setAlpha  KEYWORD2
